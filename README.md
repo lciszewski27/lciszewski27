@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Łukasz Ciszewski</h1>
-<h3 align="center">A young frontend developer from Poland</h3>
+<h3 align="center">A young frontend developer from Poland🇵🇱</h3>
 
 - 🌱 I’m currently learning **deep of React**
 
