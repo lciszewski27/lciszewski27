@@ -16,7 +16,10 @@
 #
 <h3 align="left">🗃 My projects:</h3>
 <p align="left">
-<a href="https://https://rocketflights.tk/" target="blank">🚀 Rocket Flights 🚀</a>
+<ul>
+  <li><a href="https://rocketflights.tk">🚀Rocket Flights🚀</a></li>
+  <li>Coming soon...</li>
+</ul>
 </p>
 
 #
