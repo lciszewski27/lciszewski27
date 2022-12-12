@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Łukasz Ciszewski</h1>
 <h3 align="center">A young frontend developer from Poland</h3>
 
-- 🌱 I’m currently learning **adventure React**
+- 🌱 I’m currently learning **deep of React**
 
 - 👨‍💻 All of my projects are available at [lukasz-ciszewski.github.io](lukasz-ciszewski.github.io)
 
