@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **deep of React**
 
-- 👨‍💻 All of my projects are available at [lukasz-ciszewski.github.io](lukasz-ciszewski.github.io)
+- 👨‍💻 All of my projects are available at [https://lukasz-ciszewski.github.io/](lukasz-ciszewski.github.io)
 
 - 📫 if you have any questions reach me at **lukaszciszewski@duck.com**
 
