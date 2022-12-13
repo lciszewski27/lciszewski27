@@ -26,7 +26,7 @@
 #
 <h3 align="left">📨 Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/lukasz.ciszewski0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lukasz.ciszewski0" height="30" width="40" /></a>
+<a href="https://fb.com/lukasz.ciszewski0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lukasz.ciszewski0" height="30" width="40" /></a> or reach me at <a href="mailto:lukaszciszewski@duck.com">lukaszciszewski@duck.com</a>
 </p>
 
 #
