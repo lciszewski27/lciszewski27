@@ -31,6 +31,7 @@
 
 #
 <h3 align="left">📊 Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasz-ciszewski&show_icons=true&locale=en&layout=compact&theme=dark" alt="lukasz-ciszewski" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=lukasz-ciszewski&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt=""><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lukasz-ciszewski&amp;theme=dark&amp;hide_border=false" alt=""><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasz-ciszewski&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukasz-ciszewski&show_icons=true&locale=en&theme=dark" alt="lukasz-ciszewski" /></p>
