@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at **[lukasz-ciszewski.pages.dev](https://lukasz-ciszewski.pages.dev/)**
 
-- 📫 if you have any questions reach me at **lukaszciszewski@duck.com**
+- 📫 if you have any questions reach me at <a href="mailto:lukaszciszewski@duck.com">**lukaszciszewski@duck.com**</a>
 
 - ⚡ Fun fact **I am self-taught**
 
