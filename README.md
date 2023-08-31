@@ -7,7 +7,6 @@
 
 - 📫 if you have any questions reach me at <a href="mailto:lukaszciszewski@duck.com">**lukaszciszewski@duck.com**</a>
 
-- ⚡ Fun fact **I am self-taught**
 
 #
 <h3 align="left">🧰 Technology and tool I use:</h3>
