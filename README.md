@@ -10,7 +10,9 @@
 
 #
 <h3 align="left">🧰 Technology and tool I use:</h3>
-<p><img src="https://skillicons.dev/icons?i=astro,svelte,tailwind,typescript,javascript,&theme=dark" alt="CSS3"></p>
+<p>
+  ![Static Badge](https://img.shields.io/badge/astro-black?style=for-the-badge&logo=astro)
+</p>
 
 
 #
