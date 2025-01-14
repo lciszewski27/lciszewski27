@@ -7,9 +7,9 @@ Junior Web Developer
 I am a self-taught developer who has been learning frontend development for about 3 years
 
 * 🌍  I'm based in Gdańsk, Poland
-* 🖥️  See my portfolio at [lukasz-ciszewski](http://lukasz-ciszewski.pages.dev)
+* 🖥️  See my portfolio at [lciszewski](http://lciszewski.pages.dev)
 * ✉️  You can contact me at [lukaszciszewski2007+contact@gmail.com](mailto:lukaszciszewski2007+contact@gmail.com)
-* 🚀  I'm currently working on [my portfolio](http://lukasz-ciszewski.pages.dev)
+* 🚀  I'm currently working on [my portfolio](http://lciszewski.pages.dev)
 * 🧠  I'm learning Astro and Svelte javascript frameworks
 * 🤝  I'm open to collaborating on small sites
 
