@@ -8,7 +8,7 @@ I am a self-taught developer who has been learning frontend development for abou
 
 * 🌍  I'm from Gdańsk, Poland
 * 🖥️  See my portfolio at [lciszewski](http://lciszewski.pages.dev)
-* ✉️  You can contact me at [lukaszciszewski2007+contact@gmail.com](mailto:lukaszciszewski2007+contact@gmail.com)
+* ✉️  You can contact me at [lukaszciszewski2007+dev@gmail.com](mailto:lukaszciszewski2007+dev@gmail.com)
 * 🚀  I'm currently working on [evilfinds](https://www.instagram.com/evilfiends/)
 * 🧠  I'm learning Nextjs and Svelte frameworks
 * 🤝  I'm open to collaborating on small sites
