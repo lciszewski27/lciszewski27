@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Web Developer
 --------------------
 
-I am a self-taught developer who has been learning frontend development for about 5 years
+I am a self-taught developer who has been learning frontend development since 2019
 
 * 🌍  I'm from Gdańsk, Poland
 * 🖥️  See my portfolio at [lciszewski](http://lciszewski.pages.dev)
 * ✉️  You can contact me at [lukaszciszewski2007+dev@gmail.com](mailto:lukaszciszewski2007+dev@gmail.com)
-* 🚀  I'm currently working on [evilfinds](https://www.instagram.com/evilfiends/)
+[* 🚀  I'm currently working on ]: #
 * 🧠  I'm learning Nextjs and Svelte frameworks
 * 🤝  I'm open to collaborating on small sites
 
