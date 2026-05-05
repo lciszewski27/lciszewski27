@@ -1,26 +1,42 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Łukasz Ciszewski
-========================================================================================================================================
+# Hi there! 👋
 
-Junior Web Developer
---------------------
+I'm **Łukasz**, a developer from **Gdańsk, Poland** 🌍.
 
-I am a self-taught developer who has been learning frontend development since 2019
+> **Coding for the vibes and my own hobbies.** 🚀
+> I love building small apps and websites for things that actually interest me.
 
-* 🌍  I'm from Gdańsk, Poland
-* 🖥️  See my portfolio at [lciszewski](http://lciszewski.pages.dev)
-* ✉️  You can contact me at [lukaszciszewski2007+dev@gmail.com](mailto:lukaszciszewski2007+dev@gmail.com)
-[* 🚀  I'm currently working on ]: #
-* 🧠  I'm learning Nextjs and Svelte frameworks
+---
+
+### 🛠️ What I'm up to:
+* 🖥️  See my site at [lciszewski](http://lciszewski.pages.dev)
+* ✉️  You can contact me at [lciszewski27+dev@gmail.com](mailto:lciszewski27+dev@gmail.com)
+* 🚀  I'm currently working on nothing😉
+* 🧠  I'm learning Go and Tanstack stack
 * 🤝  I'm open to collaborating on small sites
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lciszewski27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lukaszciszewski2007+dev@gmail.com) 
+## 🌐 Connect with me:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lciszewski27) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lukaszciszewski2007+dev@gmail.com) 
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=lciszewski27&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lciszewski27&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+## 💻 Tech Stack:
+<div align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="typescript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="nextjs" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="react" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=black&style=for-the-badge" alt="astro" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge" alt="svelte" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="go" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="postgresql" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=black&style=for-the-badge" alt="cloudflare" />
+</div>
+
+---
+
+## 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=lciszewski27&show_icons=true&theme=cobalt" alt="streak stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=lciszewski27&show_icons=true&theme=cobalt" alt="top langs" />
+</p>
