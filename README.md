@@ -5,6 +5,18 @@ I'm **Łukasz**, a developer from **Gdańsk, Poland** 🌍.
 > **Coding for the vibes and my own hobbies.** 🚀
 > I love building small apps and websites for things that actually interest me.
 
+  <picture>
+    <source 
+      srcset="https://github-stats-extended.vercel.app/api/wakatime?username=c29d2f74-5c20-480f-9f86-45d8049c6e92&layout=compact&custom_title=lciszewski%20stats&langs_count=8&display_format=percent&theme=catppuccin_mocha"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/wakatime?username=c29d2f74-5c20-480f-9f86-45d8049c6e92&layout=compact&custom_title=lciszewski%20stats&langs_count=8&display_format=percent&theme=catppuccin_latte"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=c29d2f74-5c20-480f-9f86-45d8049c6e92&layout=compact&custom_title=lciszewski%20stats&langs_count=8&display_format=percent&theme=catppuccin_latte" />
+  </picture>
+
 ---
 
 ### 🛠️ What I'm up to:
