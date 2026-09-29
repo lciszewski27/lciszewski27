@@ -20,7 +20,7 @@ I'm **Łukasz**, a developer from **Gdańsk, Poland** 🌍.
 ---
 
 ### 🛠️ What I'm up to:
-* 🖥️  See my site at [lciszewski](http://lciszewski.pages.dev)
+* 🖥️  See my site at [lciszewski.nya.je](https://lciszewski.nya.je/)
 * ✉️  You can contact me at [lciszewski27+dev@gmail.com](mailto:lciszewski27+dev@gmail.com)
 * 🚀  I'm currently working on nothing😉
 * 🧠  I'm learning Go and Tanstack stack
@@ -46,9 +46,3 @@ I'm **Łukasz**, a developer from **Gdańsk, Poland** 🌍.
 </div>
 
 ---
-
-## 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=lciszewski27&show_icons=true&theme=cobalt" alt="streak stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=lciszewski27&show_icons=true&theme=cobalt" alt="top langs" />
-</p>
